@@ -49,15 +49,25 @@ src/ ├── assets/     # Images, assets.js Product data
 
 ## Preview
 
-<p align="center">
-  <img src="src/assets/home.png" alt="Home Page Screenshot" width="400"/>
-  <img src="src/assets/product-details.png" alt="Product Details Screenshot" width="400"/>
+<p align="center" style="display:flex; ; align-items:flex-start;">
+  <img src="images/home.png" alt="Home Page Screenshot" width="300"/>
+  <img src="images/product.png" alt="Product Screenshot" width="300"/>
+  <img src="images/productsdetails.png" alt="Product Details Screenshot" width="300"/>
 </p>
 
-<p align="center">
-  <img src="src/assets/cart.png" alt="Cart Page Screenshot" width="400"/>
-  <img src="src/assets/admin-dashboard.png" alt="Admin Dashboard Screenshot" width="400"/>
-</p>>
+<p align="center" justify="start">
+  <img src="images/cart.png" alt="Cart Page Screenshot" width="300"/>
+   <img src="images/login.png" alt="Login page Screenshot" width="300"/>
+   <img src="images/signin.png" alt="sigin Page Screenshot" width="300"/>
+
+</p>
+
+<p>
+    <img src="images/dashboard.png" alt="Admin Dashboard Screenshot" width="300"/>
+    <img src="images/a_setting.png" alt="Admin setting Screenshot" width="300"/>
+    <img src="images/a-user.png" alt="Admin Dashboard Screenshot" width="300"/> 
+    <img src="images/a_product.png" alt="Admin products Screenshot" width="300"/>
+</p>
 
 
 
