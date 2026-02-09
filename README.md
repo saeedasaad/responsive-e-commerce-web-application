@@ -1,4 +1,4 @@
-#  E‑Commerce MERN Frontend Project
+ #  E‑Commerce MERN Frontend Project
 
 ## Overview
 This project is a **React + Tailwind CSS frontend** for an e‑commerce platform. It simulates a shopping experience with product listings, cart functionality, user authentication, and an admin dashboard.
@@ -41,9 +41,9 @@ src/ ├── assets/     # Images, assets.js Product data
 1. Clone the repository.
 2. Install dependencies:
    
-   ```
-    npm install
-   ```
+```
+npm install
+```
 3.  Start the development server:
 4.  Open ``` http://localhost:5173 ``` in your browser.
 
