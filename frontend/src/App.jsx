@@ -5,15 +5,16 @@ import Products from "./pages/Products";
 import ProductDetails from "./pages/ProductDetails";
 import Cart from "./pages/Cart";
 import Login from "./pages/Login";
-import AdminDashboard from "./pages/AdminDashboard";
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 import { CartProvider, CartContext } from "./context/CartContext.jsx";
-import AdminHome from "./pages/AdminHome.jsx";
-import AdminUsers from "./pages/AdminUsers.jsx";
-import AdminProducts from "./pages/AdminProducts.jsx";
-import AdminSettings from "./pages/AdminSettings.jsx";
 import { UserProvider } from "./context/UserContext.jsx";
+import AdminHome from "./admin/AdminHome.jsx";
+import AdminUsers from "./admin/AdminUsers.jsx";
+import AdminProducts from "./admin/AdminProducts.jsx";
+import AdminSettings from "./admin/AdminSettings.jsx";
+import AdminDashboard from "./admin/AdminDashboard.jsx";
+
 
 export default function App() {
   return (
